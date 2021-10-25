@@ -25,7 +25,7 @@ SECRET_KEY = '#as5iubosc75s*s4mbcon=*=%52ckg=h3befr#s(($pr-odff_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'taza.pythonanywhere.com']
+ALLOWED_HOSTS = ['taza.pythonanywhere.com']
 
 
 # Application definition
